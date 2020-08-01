@@ -1,9 +1,9 @@
 {
   "title": "Swift en français",
   "siteUrl": "https://swift-fr.netlify.app",
-  "description": "Le blog pour les développeur débutant en Swift.",
+  "description": "Le blog pour les développeurs débutants en Swift.",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Le swift pour les débutants",
+    "description": "Pour les débutants par un débutant..."
   }
 }
