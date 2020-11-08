@@ -16,13 +16,13 @@ const ContactPage = ({
       </Helmet>
       <div className="two-grids -contact">
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
-          <h1 className="post-title">Get in Touch</h1>
+          <h1 className="post-title">Restons en contact</h1>
           <p>Let me help you kick start your next project &rarr;</p>
         </div>
         <div>
           <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
             <div>
-              <label htmlFor="w3lName">Name</label>
+              <label htmlFor="w3lName">Nom</label>
               <input type="text" name="w3lName" id="w3lName"/>
             </div>
             <div>
@@ -30,7 +30,7 @@ const ContactPage = ({
               <input type="email" name="w3lSender" id="w3lSender"/>
             </div>
             <div>
-              <label htmlFor="w3lSubject">Subject</label>
+              <label htmlFor="w3lSubject">Sujet</label>
               <input type="text" name="w3lSubject" id="w3lSubject"/>
             </div>
             <div>
