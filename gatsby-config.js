@@ -9,6 +9,14 @@ module.exports = {
   siteMetadata: require("./site-meta-data.json"),
   plugins: [
     {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // The property ID; the tracking code won't be generated without it. replace with yours
+        trackingId: "G-R3VB952HPE",
+        head: true,
+      }
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `markdown-pages`,
@@ -32,14 +40,6 @@ module.exports = {
           resolve: 'gatsby-remark-emojis',
         }],
       },
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        // The property ID; the tracking code won't be generated without it. replace with yours
-        trackingId: "G-R3VB952HPE",
-        head: true,
-      }
     },
     {
       resolve: `gatsby-plugin-manifest`,
