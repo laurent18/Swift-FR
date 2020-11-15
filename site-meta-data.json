@@ -1,9 +1,9 @@
 {
-  "title": "Le Swift en français",
+  "title": "Swift.dev",
   "siteUrl": "https://swift-fr.netlify.app",
-  "description": "Le blog pour les développeurs débutants en Swift.",
+  "description": "Le blog pour les dev Swift débutants",
   "home": {
-    "title": "Le Swift pour les débutants",
-    "description": "Pour les débutants par un débutant..."
+    "title": "Swift.dev",
+    "description": "Le blog pour les developpeurs Swift débutants"
   }
 }
