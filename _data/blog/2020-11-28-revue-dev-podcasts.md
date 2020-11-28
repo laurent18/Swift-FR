@@ -18,7 +18,7 @@ Les 2 compères abordent, une ou deux fois par mois, l'actualité Apple vu du co
 
 ## Radio Devops
 
-Si vous êtes un developpeur professionnel, vous connaissez forcement le DevOps. Radio Devops abordent des sujets comme l'intégration continue, les tests automatisés mais aussi le travail en équipe, le télétravail.
+Si vous êtes un developpeur professionnel, vous connaissez probablement le DevOps. Radio Devops abordent des sujets comme l'intégration continue, les tests automatisés mais aussi le travail en équipe, le télétravail.
 
 [Site web de Radio Devops](https://lydra.fr/radio-devops/)
 
